@@ -97,10 +97,10 @@ const githubUrl = 'https://github.com/your-username';
 
 ## Browser Support
 
-``` - Chrome (latest)
-``` - Firefox (latest)
-``` - Safari (latest)
-``` - Edge (latest)
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
 
 # 👨‍💻 Authors
 - ***☝ ABDUL SABOOR ☝***
